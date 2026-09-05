@@ -1,1 +1,0 @@
-﻿# This is my first ever hands on, individual project
